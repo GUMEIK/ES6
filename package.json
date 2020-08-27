@@ -1,0 +1,24 @@
+{
+  "name": "ES6",
+  "version": "1.0.0",
+  "description": "ES6的复习回顾和总结",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GUMEIK/ES6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GUMEIK/ES6/issues"
+  },
+  "homepage": "https://github.com/GUMEIK/ES6#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.5"
+  }
+}
